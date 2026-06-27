@@ -1,0 +1,10 @@
+# Swap and backup files
+*.swp
+*.swo
+*~
+
+# Session files
+Session.vim
+
+# OS files
+.DS_Store
