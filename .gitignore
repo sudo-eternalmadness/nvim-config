@@ -8,3 +8,7 @@ Session.vim
 
 # OS files
 .DS_Store
+
+# Versions of packages
+lazy-lock.json
+nvim-pack-lock.json
